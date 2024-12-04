@@ -12,12 +12,12 @@ To use this script, first clone the repository to your local machine:
 git clone https://github.com/username/pingsweeper.git
 cd pingsweeper
 ```
-### **2. Make the Script Executable
+### **2. Make the Script Executable**
 Before running the script, make sure it's executable:
 ```bash
 chmod +x pingsweep.sh
 ```
-### **3. Run the Script
+### **3. Run the Script**
 You can run the script :
 ```bash
 ./pingsweep.sh
